@@ -1,6 +1,6 @@
 {
-    "name": "basketball_counter_app",
-    "short_name": "basketball_counter_app",
+    "name": "points_counter",
+    "short_name": "points_counter",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
